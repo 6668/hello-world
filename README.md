@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 我要这天，再遮不住我眼， 
 要这地，再埋不了我心， 
